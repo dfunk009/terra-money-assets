@@ -1,5 +1,13 @@
 module.exports = {
   mainnet: {
+    terra1ntnkf7k3twr4j7j2h6y4k95rz0nfhcx9e3e0ke957vjvpzwynd6qas43zl: {
+      contract: "terra1ntnkf7k3twr4j7j2h6y4k95rz0nfhcx9e3e0ke957vjvpzwynd6qas43zl",
+      name: "LunaPunks",
+      symbol: "LunaPunks",
+      icon: "https://lunapunks.io/hero.jpg",
+      homepage: "https://lunapunks.io",
+      marketplace: ["https://lunapunks.io/market"],
+    },
     terra1sxqeul6tr7902ru8x9tum55a7xgfv6l6z770cnpwya78rngfu8xszad92j: {
       contract: "terra1sxqeul6tr7902ru8x9tum55a7xgfv6l6z770cnpwya78rngfu8xszad92j",
       name: "Wicca Badge",
@@ -268,8 +276,9 @@ module.exports = {
       contract: "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv",
       name: "LunaPunks",
       symbol: "LunaPunks",
-      icon: "https://classic.lunapunks.io/hero.jpg",
-      marketplace: ["https://classic.lunapunks.io/market"],
+      icon: "https://lunapunks.io/hero.jpg",
+      homepage: "https://lunapunks.io",
+      marketplace: ["https://lunapunks.io/market"],
     },
     terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh: {
       contract: "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh",
@@ -837,6 +846,14 @@ module.exports = {
       icon: "https://cdn.luart.io/logos/artsy-apes-logo.png",
       homepage: "https://www.artsyapes.com/",
       marketplace: ["https://marketplace.luart.io/collections/terra1vdwz6zlrk6ptsxu97dk43uup9frchuwse8s6d8"],
+    },
+      terra14rguk9lxd93lf233e7v4ukcqesc0738nu8a62e99pxrz9kn5y79qge7dv3: {
+      contract: "terra14rguk9lxd93lf233e7v4ukcqesc0738nu8a62e99pxrz9kn5y79qge7dv3",
+      name: "Cats Wif Hats Collection 1",
+      symbol: "CWHC1",
+      icon: "https://ibb.co/sj2znzv",
+      homepage: "https://bigbangx.io/",
+      marketplace: ["https://bigbangx.io/collection/lunc-cats-wif-hats-collection-1"],
     },
   },
   testnet: {},
